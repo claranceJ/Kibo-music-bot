@@ -2,7 +2,7 @@
 import random
 
 # List of movie genres
-genres = ["action", "comedy", "drama", "horror", "romance"]
+genres = ["action", "comedy", "drama", "horHulror", "romance"]
 
 # Prompt the user for their favorite movie genre
 favorite_genre = input("What is your favorite movie genre? ")
