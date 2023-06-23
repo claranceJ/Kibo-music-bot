@@ -28,7 +28,7 @@ for char in intro_text:
 genres = ["afrobeat","pop", "reggea", "rocks", "rnb", "blues"  "soul" "drill" "hip hop", "country", "jazz"]
 
 # Prompt the user for their favorite music genre
-favorite_genre = input("What is your favorite music genre🎶 ? ")
+favorite_genre = input("What is your favorite music genre ? ")
 
 # Check if the user's favorite genre is in the list
 if favorite_genre in genres:
